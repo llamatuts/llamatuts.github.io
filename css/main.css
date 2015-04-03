@@ -447,3 +447,28 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.wrapper {
+  max-width: none; }
+  @media screen and (max-width: 800px) {
+    .wrapper {
+      max-width: none; } }
+
+.post-box {
+  position: relative; }
+
+.excerpt {
+  margin-bottom: 75px; }
+
+.index-meta {
+  text-align: right;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0; }
+
+.most-recent-meta {
+  padding: 30px; }
+
+.meta-data {
+  background-color: blue !important; }
