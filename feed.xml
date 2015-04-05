@@ -6,15 +6,15 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Apr 2015 16:31:51 -0400</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2015 16:31:51 -0400</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2015 10:54:25 +1000</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2015 10:54:25 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Test Six!</title>
         <description>&lt;p&gt;Hello I am a post.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Apr 2015 07:12:18 -0400</pubDate>
+        <pubDate>Fri, 03 Apr 2015 22:12:18 +1100</pubDate>
         <link>http://yourdomain.com/category/2015/04/03/test-six.html</link>
         <guid isPermaLink="true">http://yourdomain.com/category/2015/04/03/test-six.html</guid>
         
@@ -40,7 +40,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 29 Mar 2015 07:53:17 -0400</pubDate>
+        <pubDate>Sun, 29 Mar 2015 22:53:17 +1100</pubDate>
         <link>http://yourdomain.com/javascript/2015/03/29/test-five.html</link>
         <guid isPermaLink="true">http://yourdomain.com/javascript/2015/03/29/test-five.html</guid>
         
@@ -66,7 +66,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 27 Mar 2015 07:53:17 -0400</pubDate>
+        <pubDate>Fri, 27 Mar 2015 22:53:17 +1100</pubDate>
         <link>http://yourdomain.com/another%20test%20category/2015/03/27/test-four.html</link>
         <guid isPermaLink="true">http://yourdomain.com/another%20test%20category/2015/03/27/test-four.html</guid>
         
@@ -92,7 +92,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 26 Mar 2015 07:53:17 -0400</pubDate>
+        <pubDate>Thu, 26 Mar 2015 22:53:17 +1100</pubDate>
         <link>http://yourdomain.com/excerpt/2015/03/26/test-three.html</link>
         <guid isPermaLink="true">http://yourdomain.com/excerpt/2015/03/26/test-three.html</guid>
         
@@ -118,7 +118,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 25 Mar 2015 07:53:17 -0400</pubDate>
+        <pubDate>Wed, 25 Mar 2015 22:53:17 +1100</pubDate>
         <link>http://yourdomain.com/ruby-on-rails/2015/03/25/test-two.html</link>
         <guid isPermaLink="true">http://yourdomain.com/ruby-on-rails/2015/03/25/test-two.html</guid>
         
@@ -144,7 +144,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 24 Mar 2015 07:53:17 -0400</pubDate>
+        <pubDate>Tue, 24 Mar 2015 22:53:17 +1100</pubDate>
         <link>http://yourdomain.com/meta-data/2015/03/24/test-one.html</link>
         <guid isPermaLink="true">http://yourdomain.com/meta-data/2015/03/24/test-one.html</guid>
         
@@ -170,7 +170,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 13 Mar 2015 07:53:17 -0400</pubDate>
+        <pubDate>Fri, 13 Mar 2015 22:53:17 +1100</pubDate>
         <link>http://yourdomain.com/jekyll%20update/2015/03/13/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll%20update/2015/03/13/welcome-to-jekyll.html</guid>
         
